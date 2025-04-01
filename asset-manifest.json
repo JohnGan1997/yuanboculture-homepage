@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/yuanboculture-homepage/static/css/main.baac527d.css",
+    "main.js": "/yuanboculture-homepage/static/js/main.c0db2771.js",
+    "static/js/453.16b49c0b.chunk.js": "/yuanboculture-homepage/static/js/453.16b49c0b.chunk.js",
+    "static/media/hero-bg.jpg": "/yuanboculture-homepage/static/media/hero-bg.b07b906df9e03204c72f.jpg",
+    "static/media/sakura-pattern.png": "/yuanboculture-homepage/static/media/sakura-pattern.7a9e52451392bd69a2af.png",
+    "index.html": "/yuanboculture-homepage/index.html",
+    "main.baac527d.css.map": "/yuanboculture-homepage/static/css/main.baac527d.css.map",
+    "main.c0db2771.js.map": "/yuanboculture-homepage/static/js/main.c0db2771.js.map",
+    "453.16b49c0b.chunk.js.map": "/yuanboculture-homepage/static/js/453.16b49c0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baac527d.css",
+    "static/js/main.c0db2771.js"
+  ]
+}
